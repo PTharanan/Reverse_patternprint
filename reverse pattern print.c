@@ -1,6 +1,6 @@
 /*
  ============================================================================
- Name        : revese.c
+ Name        : reverse.c
  Author      : 
  Version     :
  Copyright   : Your copyright notice
